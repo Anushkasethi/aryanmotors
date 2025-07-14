@@ -26,7 +26,9 @@ const Hero = () => {
                     Every Day
                 </h1>
                 <p className="text-xl md:text-2xl mb-8 text-black-200 max-w-2xl mx-auto">
-                    Premium machine parts and tools for industrial excellence
+                    Discover the finest selection of machine parts and accessories
+                    at Aryan Motors. We are committed to providing top-quality JCB products
+                    including JCB parts, JCB accessories, and JCB attachments.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <button
